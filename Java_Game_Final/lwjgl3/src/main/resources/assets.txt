@@ -1,0 +1,5 @@
+.gitkeep
+background-clouds.jpg
+ball.png
+bark.mp3
+dog.png
